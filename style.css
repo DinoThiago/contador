@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    min-height: 100vh;
+    background-color: black;
+    color: white;
+}
+
+section{
+    background-color: rebeccapurple;
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    font-size: 28px;
+    padding-top: 40px;
+}
+
+button{
+    padding: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+}
